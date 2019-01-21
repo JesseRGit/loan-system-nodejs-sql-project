@@ -13,9 +13,7 @@ build/
 /yarn.lock
 /package.json
 
-# GitLab Docker files because moving to GitHub
-.dockerfiles
+# GitLab files, because moving to GitHub
 .gitlab-ci.yml
-.docker-compose.prod.yml
-.docker-compose.yml
+
 
